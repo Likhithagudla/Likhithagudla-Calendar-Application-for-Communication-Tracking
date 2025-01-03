@@ -9,12 +9,15 @@ This is a full-stack application designed to help you track and manage communica
 [![Preview](https://img.shields.io/badge/Preview-Green?style=for-the-badge&logo=appveyor&color=34D399)](https://calendar-x.netlify.app/)
 
 **[Preview Calendar Application](https://calendar-x.netlify.app/)**
+
   **OUTPUT SCREENS** 
 ![Screenshot 2025-01-03 123329](https://github.com/user-attachments/assets/3c290e0e-67b5-4359-87c4-6e4ad5fb4a16)
+
 ![Screenshot 2025-01-03 123347](https://github.com/user-attachments/assets/3c863f8c-e935-4a36-adf6-d6a062ee7f1a)
+
 ![Screenshot 2025-01-03 123602](https://github.com/user-attachments/assets/e057e5dd-47ce-43ea-8793-abf3deed235e)
+
 ![Screenshot 2025-01-03 123622](https://github.com/user-attachments/assets/8a93331c-6cea-4a6b-8520-86a0feb21c66)
----
 
 ## Table of Contents
 
